@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobilnost</string>
+    <string-array name="spinCont">
+        <item>cm => inč</item>
+        <item>inč => cm</item>
+    </string-array>
+</resources>
